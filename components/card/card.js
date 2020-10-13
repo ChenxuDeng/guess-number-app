@@ -11,7 +11,8 @@ function Card(props) {
             },
             shadowRadius:6,
             elevation:5,
-            borderRadius:5
+            borderRadius:5,
+            shadowOpacity:0.26
         }
     })
 
